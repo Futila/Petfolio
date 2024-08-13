@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petfolio.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab1061172dcbfd3d80c7fdc58119509330f8227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a314f78e16343da0afe96a5334ac0f676e64d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petfolio.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petfolio.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
