@@ -13,3 +13,4 @@ C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\
 C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
 C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
 C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json

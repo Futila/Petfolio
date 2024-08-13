@@ -34,3 +34,4 @@ C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.API\obj\Debug\net8.0\r
 C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.pdb
 C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.genruntimeconfig.cache
 C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.API\obj\Debug\net8.0\ref\Petfolio.API.dll
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.sourcelink.json
