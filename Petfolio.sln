@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.API", "Petfolio.API\Petfolio.API.csproj", "{F98EE64F-2A07-4098-8301-B8372AD6BCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.Communication", "Petfolio.Communication\Petfolio.Communication.csproj", "{86F22DE0-E4C9-4286-8E92-C8BA6F666E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.Application", "Petfolio.Application\Petfolio.Application.csproj", "{4399E39A-6E16-40DA-9CF9-6185AA456B96}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98EE64F-2A07-4098-8301-B8372AD6BCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98EE64F-2A07-4098-8301-B8372AD6BCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98EE64F-2A07-4098-8301-B8372AD6BCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98EE64F-2A07-4098-8301-B8372AD6BCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F22DE0-E4C9-4286-8E92-C8BA6F666E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F22DE0-E4C9-4286-8E92-C8BA6F666E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F22DE0-E4C9-4286-8E92-C8BA6F666E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F22DE0-E4C9-4286-8E92-C8BA6F666E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4399E39A-6E16-40DA-9CF9-6185AA456B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4399E39A-6E16-40DA-9CF9-6185AA456B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4399E39A-6E16-40DA-9CF9-6185AA456B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4399E39A-6E16-40DA-9CF9-6185AA456B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

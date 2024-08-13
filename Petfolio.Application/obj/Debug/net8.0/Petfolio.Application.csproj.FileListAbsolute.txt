@@ -1,0 +1,15 @@
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.deps.json
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.dll
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.pdb
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.dll
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.pdb
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.AssemblyReference.cache
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfoInputs.cache
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfo.cs
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.CoreCompileInputs.cache
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.32F76676.Up2Date
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.dll
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
+C:\workspace\projects\rocketseat\csharp\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
